@@ -1,1 +1,1 @@
-"# nlw-setup" 
+tempo de video 10:29
