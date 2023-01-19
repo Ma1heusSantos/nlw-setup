@@ -1,9 +1,19 @@
-*{
-    margin:0;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-body{
-    background-color: #09090A;
-    display: grid;
-    place-items: center;
-    height: 100vh;
+body {
+  background-color: #09090a;
+  height: 100vh;
+}
+button {
+  color: #fff;
+  border: 1px solid #8b5cf6;
+  padding: 16px 24px;
+  background-color: transparent;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
 }
