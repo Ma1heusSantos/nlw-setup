@@ -1,1 +1,1 @@
-tempo de video 34:00
+tempo de video 05:25
